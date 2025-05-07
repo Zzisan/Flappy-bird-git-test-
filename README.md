@@ -1,5 +1,5 @@
-# FLAPPY BIRD
-Flappy bird flew into an endless pipe zone (or is it?) and needs help flying through to get out.  
+# FLAPPY BIRD by noanonoa (Just using it for git commit tests)
+**** Flappy bird flew into an endless pipe zone (or is it?) and needs help flying through to get out.  
 
 # ABOUT THE GAME
 A simple side-scrolling game where the player controls a bird to fly between pipes without hitting them.  Flying between each set of pipes scores 1 point and hitting them or the ground ends the game.  See how long you can last and set records.  
@@ -106,4 +106,4 @@ https://noanonoa.github.io/flappy-bird/
 
 > Tracking the score was challenging due to the fact that each place value of the number had to correlate to an image of its value. No texts and fonts were used in the game.
 
-> Overall, I learned a lot of canvas tools and mechanics for JavaScript.  Re-creating this game was a lot of fun and good training for various JavaScript fundamentals such as loops, functions, if-else statements, arrays, objects, and concepts.
+> Overall, I learned a lot of canvas tools and mechanics for JavaScript.  Re-creating this game was a lot of fun and good training for various JavaScript fundamentals such as loops, functions, if-else statements, arrays, objects, and concepts.*****
