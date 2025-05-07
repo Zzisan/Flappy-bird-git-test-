@@ -107,3 +107,7 @@ https://noanonoa.github.io/flappy-bird/
 > Tracking the score was challenging due to the fact that each place value of the number had to correlate to an image of its value. No texts and fonts were used in the game.
 
 > Overall, I learned a lot of canvas tools and mechanics for JavaScript.  Re-creating this game was a lot of fun and good training for various JavaScript fundamentals such as loops, functions, if-else statements, arrays, objects, and concepts.*****
+
+
+# New Part
+1. Some texts here.
